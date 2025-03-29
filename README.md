@@ -1,1 +1,1 @@
-# CustomerSegmentation_ML
+This repository contains a Customer Segmentation and Behavior Analysis project, where Google Colab is used for data processing and Power BI is used for visualization. The project involves clustering customers into segments based on purchasing behavior, demographics, and transaction data to provide insights for business decision-making.
